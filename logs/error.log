@@ -1,0 +1,30 @@
+2019/10/26 23:37:14 [emerg] 32538#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/10/26 23:37:14 [emerg] 32538#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/10/26 23:37:14 [emerg] 32538#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/10/26 23:37:14 [emerg] 32538#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/10/26 23:37:14 [emerg] 32538#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/10/26 23:37:14 [emerg] 32538#0: still could not bind()
+2019/10/26 23:38:04 [notice] 32618#0: signal process started
+2019/10/26 23:38:14 [notice] 32636#0: signal process started
+2019/10/26 23:38:32 [emerg] 32667#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/10/26 23:38:32 [emerg] 32667#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/10/26 23:38:32 [emerg] 32667#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/10/26 23:38:32 [emerg] 32667#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/10/26 23:38:32 [emerg] 32667#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/10/26 23:38:32 [emerg] 32667#0: still could not bind()
+2019/10/27 22:08:15 [notice] 11555#0: using the "epoll" event method
+2019/10/27 22:08:15 [notice] 11555#0: using the "epoll" event method
+2019/10/27 22:08:15 [notice] 11555#0: nginx/1.6.2
+2019/10/27 22:08:15 [notice] 11555#0: nginx/1.6.2
+2019/10/27 22:08:15 [notice] 11555#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-39) (GCC) 
+2019/10/27 22:08:15 [notice] 11555#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-39) (GCC) 
+2019/10/27 22:08:15 [notice] 11555#0: OS: Linux 3.10.0-514.26.2.el7.x86_64
+2019/10/27 22:08:15 [notice] 11555#0: OS: Linux 3.10.0-514.26.2.el7.x86_64
+2019/10/27 22:08:15 [notice] 11555#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2019/10/27 22:08:15 [notice] 11555#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2019/10/27 22:08:15 [notice] 11556#0: start worker processes
+2019/10/27 22:08:15 [notice] 11556#0: start worker processes
+2019/10/27 22:08:15 [notice] 11556#0: start worker process 11557
+2019/10/27 22:08:15 [notice] 11556#0: start worker process 11557
+2019/10/27 22:08:15 [notice] 11556#0: start worker process 11558
+2019/10/27 22:08:15 [notice] 11556#0: start worker process 11558
